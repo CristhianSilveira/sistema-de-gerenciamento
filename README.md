@@ -22,4 +22,4 @@ Este é um sistema de gerenciamento de dados utilizando Python, Tkinter e SQLite
 - **Relatórios**: Geração de relatórios a partir dos dados armazenados.
 
 ## Observações
-Este projeto foi desenvolvido como parte de um trabalho da disciplina de Desenvolvimento Rápido de Aplicações em Python.
+Este projeto foi desenvolvido para um trabalho da disciplina de Desenvolvimento Rápido de Aplicações em Python.
